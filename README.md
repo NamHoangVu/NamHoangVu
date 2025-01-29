@@ -1,5 +1,7 @@
 ## Hi there 👋 My name is Nam Hoang Vu
 
+I'm a student at OsloMet pursuing a bachelor's degree in Applied Computer Technology
+
 <!--
 **NamHoangVu/NamHoangVu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
